@@ -21,7 +21,7 @@ The goals for this challenge are to:
   3. City Facts: https://github.com/jbtrahin/Bikesharing/blob/master/city_facts.csv
 
 ## App Preview
-You'll find the final visualization of our Tableau Story here:[Des Moines Bike-Sharing Analysis](https://public.tableau.com/profile/jb2456#!/vizhome/DESMOINESABIKE-SHARINGSUCCESSSTORY/DesMoinesCitiBike?publish=yes)
+You'll find the final visualization of our Tableau Story here: [Des Moines Bike-Sharing Analysis](https://public.tableau.com/profile/jb2456#!/vizhome/DESMOINESABIKE-SHARINGSUCCESSSTORY/DesMoinesCitiBike?publish=yes)
 
 ## Analysis
 
