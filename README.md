@@ -18,10 +18,10 @@ The goals for this challenge are to:
 - Data Sources:
   1. CitiBike Dataset (August 2019): https://s3.amazonaws.com/tripdata/201809-citibike-tripdata.csv.zip
   2. Census Data: https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa/PST045219
-  3. City Facts: (link to csv)
+  3. City Facts: https://github.com/jbtrahin/Bikesharing/blob/master/city_facts.csv
 
 ## App Preview
-You'll find the final visualization of our Tableau Story here: ![alt text](https://public.tableau.com/profile/jb2456#!/vizhome/DESMOINESABIKE-SHARINGSUCCESSSTORY/DesMoinesCitiBike?publish=yes)
+You'll find the final visualization of our Tableau Story here:[Des Moines Bike-Sharing Analysis](https://public.tableau.com/profile/jb2456#!/vizhome/DESMOINESABIKE-SHARINGSUCCESSSTORY/DesMoinesCitiBike?publish=yes)
 
 ## Analysis
 
